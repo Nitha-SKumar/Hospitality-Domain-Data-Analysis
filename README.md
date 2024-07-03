@@ -26,7 +26,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Mock up](https://github.com/Nitha-SKumar/Hospitality-Domain-Data-Analysis/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png)
 
 ## Data Model
-![dtamodel](https://github.com/Nitha-SKumar/Hospitality-Domain-Data-Analysis/blob/main/Reports/data%20model.PNG)
+![datamodel](https://github.com/Nitha-SKumar/Hospitality-Domain-Data-Analysis/blob/main/Reports/data%20model.PNG)
 ## Dashboard Home page
 ![home](https://github.com/Nitha-SKumar/Hospitality-Domain-Data-Analysis/blob/main/Reports/home.PNG)
 ## Dashboard Citywise Analysis
